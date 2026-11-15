@@ -7,15 +7,15 @@ The main report uses the observed-data workflow. The original notebook and refer
 **Field target.** For tree $j$, let $l_j$ and $u_j$ denote the dates bracketing the first qualifying 50% crossing. Dates are days after September 1. For site $s$ and year $y$,
 
 $$
- L_{sy}^{obs}=\operatorname{med}_j(l_j),\quad
- U_{sy}^{obs}=\operatorname{med}_j(u_j),\quad
+ L_{sy}^{obs}=\operatorname{med}_j(l_j),\qquad
+ U_{sy}^{obs}=\operatorname{med}_j(u_j),\qquad
  O_{sy}=\frac{L_{sy}^{obs}+U_{sy}^{obs}}{2}.
 $$
 
 **Weather and daylight.** Use station minimum temperature corrected to the site elevation. The fixed solar calendar uses ordinal day $244+d$ in every year and day 172 as a solstice reference. Latitude and declination are in radians in the trigonometric functions.
 
 $$
- T_d=T_{\rm NOAA,d}-0.0065(z_{\rm site}-z_{\rm station}),
+ T_d=T_{\mathrm{NOAA},d}-0.0065(z_{\mathrm{site}}-z_{\mathrm{station}}),
  \qquad \delta(j)=\frac{23.44\pi}{180}\sin\frac{2\pi(284+j)}{365}.
 $$
 
@@ -57,13 +57,13 @@ The daily chart shows $100\widehat p(d)$. It gives simulation probabilities for 
 
 ## B. Observed-data extensions and sensitivity
 
-**Elevation and summer tests.** The elevation sensitivity reruns the backtest with the lapse correction set to zero. Temperature and rainfall are separate candidate predictors. For summer temperature use the mean of daily $(T_{min}+T_{max})/2$. For rainfall use $92\overline{P}_{\rm daily}/100$, in 100 mm units, after screening out quality flags. Both require at least 88 valid days.
+**Elevation and summer tests.** The elevation sensitivity reruns the backtest with the lapse correction set to zero. Temperature and rainfall are separate candidate predictors. For summer temperature use the mean of daily $(T_{min}+T_{max})/2$. For rainfall use $92\overline{P}_{\mathrm{daily}}/100$, in 100 mm units, after screening out quality flags. Both require at least 88 valid days.
 
 Let $X_i$ denote either summer predictor and $Z_i=\log \max[0.01,(c_i^-+c_i^+)/2]$. Demean $X$ and $Z$ by training site to get $x_i$ and $z_i$. With earlier years only,
 
 $$
  \widehat\beta=\frac{\sum_i x_i z_i}{\sum_i x_i^2+4},
- \qquad m=\exp\!\left[\widehat\beta(X_{sy}-\overline X_{s,\rm prior})\right].
+ \qquad m=\exp\!\left[\widehat\beta(X_{sy}-\overline X_{s,\mathrm{prior}})\right].
 $$
 
 This $m$ multiplies the sampled threshold before clipping, using the same random draws for each paired comparison. [Summer temperature code](../ohio_foliage_extensions.py) · [Rainfall code](../ohio_foliage_precipitation.py)
@@ -88,7 +88,7 @@ $$
 $$
 
 $$
- \min_{r,A,q}\sum_{y\in\rm prior}\frac{1}{n_y}
+ \min_{r,A,q}\sum_{y\in\mathrm{prior}}\frac{1}{n_y}
  \sum_{i=1}^{n_y}\bigl[G(d_i-O_y)-M_i\bigr]^2 .
 $$
 
@@ -132,7 +132,7 @@ $$
 It returns zero if already crossed on day zero and the season-length sentinel if no crossing occurs. Its differential-evolution objective over the configured parameter bounds is
 
 $$
- \min_{T_{base},a,b,c}\sum_{m,y\in\rm train}(D_{my}-O_{my})^2
+ \min_{T_{base},a,b,c}\sum_{m,y\in\mathrm{train}}(D_{my}-O_{my})^2
        +0.01\bigl[b^2+(100c)^2\bigr].
 $$
 
