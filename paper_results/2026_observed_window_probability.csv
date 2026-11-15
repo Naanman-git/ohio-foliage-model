@@ -1,0 +1,5 @@
+site,mode,trees,probability_in_observed_window
+Columbus,Hindcast,2,0.07039999999999999
+Columbus,Preseason,2,0.157
+Oxford,Hindcast,5,0.2858
+Oxford,Preseason,5,0.3516

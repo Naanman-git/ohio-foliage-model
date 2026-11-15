@@ -1,0 +1,13 @@
+site,scenario,delta_tmin_c,date_shift_p10_days,date_shift_median_days,date_shift_p90_days,matched_crossings,no_crossing_probability
+Columbus,Lower slope bound,0.12052527350100462,0.0,0.0,1.0,5000,0.0
+Columbus,Station trend,0.5559374943611396,1.0,1.0,3.0,5000,0.0
+Columbus,Upper slope bound,0.9913497152212746,1.0,3.0,5.0,5000,0.0
+Columbus,+1 °C sensitivity,1.0,1.0,3.0,5.0,5000,0.0
+Oxford,Lower slope bound,-0.2574446522145634,-1.0,-1.0,0.0,5000,0.0
+Oxford,Station trend,0.3241622470419367,0.0,1.0,2.0,5000,0.0
+Oxford,Upper slope bound,0.9057691462984367,1.0,2.0,4.0,5000,0.0
+Oxford,+1 °C sensitivity,1.0,1.0,2.0,4.0,5000,0.0
+Perry County,Lower slope bound,-0.01944134482138954,0.0,0.0,0.0,5000,0.0
+Perry County,Station trend,0.38490108226602865,0.0,1.0,2.0,5000,0.0
+Perry County,Upper slope bound,0.7892435093534469,1.0,2.0,4.0,5000,0.0
+Perry County,+1 °C sensitivity,1.0,1.0,2.0,5.0,5000,0.0

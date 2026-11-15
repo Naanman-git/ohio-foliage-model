@@ -1,0 +1,4 @@
+site,county,provider,issue_date,external_start,external_end,our_preseason_median,our_hindcast_median,source
+Columbus,Franklin,More Than Just Parks,2026-11-07,2026-10-18,2026-10-20,2026-10-21,2026-10-22,https://morethanjustparks.com/foliage-tracker/ohio
+Oxford,Butler,More Than Just Parks,2026-11-07,2026-10-29,2026-10-29,2026-10-19,2026-10-23,https://morethanjustparks.com/foliage-tracker/ohio
+Perry County,Perry,More Than Just Parks,2026-11-07,2026-10-21,2026-10-27,2026-10-20,2026-10-24,https://morethanjustparks.com/foliage-tracker/ohio

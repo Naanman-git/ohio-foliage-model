@@ -1,0 +1,3 @@
+mode,cases,corrected_mae,raw_mae,max_absolute_prediction_shift,mae_change
+Hindcast,8,9.6875,9.6875,1,0.0
+Preseason,8,7.6875,7.5625,1,0.125

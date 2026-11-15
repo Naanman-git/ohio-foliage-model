@@ -1,0 +1,3 @@
+mode,cases,scored_dates,mae_days,rmse_days,baseline_mae_days,median_in_window,interval_overlaps_window
+Hindcast,8,8,9.6875,11.542042713488804,9.578125,0.125,0.75
+Preseason,8,8,7.6875,9.265190230103212,9.578125,0.25,0.875

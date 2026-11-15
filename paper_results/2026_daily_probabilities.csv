@@ -1,0 +1,553 @@
+site,mode,day,probability
+Columbus,Hindcast,0,0.0
+Columbus,Hindcast,1,0.0
+Columbus,Hindcast,2,0.0
+Columbus,Hindcast,3,0.0
+Columbus,Hindcast,4,0.0
+Columbus,Hindcast,5,0.0
+Columbus,Hindcast,6,0.0706
+Columbus,Hindcast,7,0.0
+Columbus,Hindcast,8,0.0
+Columbus,Hindcast,9,0.0
+Columbus,Hindcast,10,0.0
+Columbus,Hindcast,11,0.0
+Columbus,Hindcast,12,0.0
+Columbus,Hindcast,13,0.0
+Columbus,Hindcast,14,0.0
+Columbus,Hindcast,15,0.0
+Columbus,Hindcast,16,0.0
+Columbus,Hindcast,17,0.0
+Columbus,Hindcast,18,0.0
+Columbus,Hindcast,19,0.0
+Columbus,Hindcast,20,0.0
+Columbus,Hindcast,21,0.0
+Columbus,Hindcast,22,0.0
+Columbus,Hindcast,23,0.0
+Columbus,Hindcast,24,0.0
+Columbus,Hindcast,25,0.0
+Columbus,Hindcast,26,0.0
+Columbus,Hindcast,27,0.0
+Columbus,Hindcast,28,0.0
+Columbus,Hindcast,29,0.0006
+Columbus,Hindcast,30,0.0
+Columbus,Hindcast,31,0.025
+Columbus,Hindcast,32,0.0574
+Columbus,Hindcast,33,0.0254
+Columbus,Hindcast,34,0.0182
+Columbus,Hindcast,35,0.0276
+Columbus,Hindcast,36,0.0204
+Columbus,Hindcast,37,0.0188
+Columbus,Hindcast,38,0.0204
+Columbus,Hindcast,39,0.0076
+Columbus,Hindcast,40,0.0032
+Columbus,Hindcast,41,0.0
+Columbus,Hindcast,42,0.0
+Columbus,Hindcast,43,0.0
+Columbus,Hindcast,44,0.002
+Columbus,Hindcast,45,0.0096
+Columbus,Hindcast,46,0.0268
+Columbus,Hindcast,47,0.039
+Columbus,Hindcast,48,0.0304
+Columbus,Hindcast,49,0.0286
+Columbus,Hindcast,50,0.034
+Columbus,Hindcast,51,0.0476
+Columbus,Hindcast,52,0.044
+Columbus,Hindcast,53,0.0452
+Columbus,Hindcast,54,0.0432
+Columbus,Hindcast,55,0.045
+Columbus,Hindcast,56,0.0412
+Columbus,Hindcast,57,0.0264
+Columbus,Hindcast,58,0.033
+Columbus,Hindcast,59,0.0328
+Columbus,Hindcast,60,0.0288
+Columbus,Hindcast,61,0.0168
+Columbus,Hindcast,62,0.0148
+Columbus,Hindcast,63,0.0066
+Columbus,Hindcast,64,0.0
+Columbus,Hindcast,65,0.0244
+Columbus,Hindcast,66,0.0158
+Columbus,Hindcast,67,0.0288
+Columbus,Hindcast,68,0.0264
+Columbus,Hindcast,69,0.0118
+Columbus,Hindcast,70,0.0018
+Columbus,Hindcast,71,0.0
+Columbus,Hindcast,72,0.0
+Columbus,Hindcast,73,0.0
+Columbus,Hindcast,74,0.0
+Columbus,Hindcast,75,0.0
+Columbus,Hindcast,76,0.0
+Columbus,Hindcast,77,0.0
+Columbus,Hindcast,78,0.0
+Columbus,Hindcast,79,0.0
+Columbus,Hindcast,80,0.0
+Columbus,Hindcast,81,0.0
+Columbus,Hindcast,82,0.0
+Columbus,Hindcast,83,0.0
+Columbus,Hindcast,84,0.0
+Columbus,Hindcast,85,0.0
+Columbus,Hindcast,86,0.0
+Columbus,Hindcast,87,0.0
+Columbus,Hindcast,88,0.0
+Columbus,Hindcast,89,0.0
+Columbus,Hindcast,90,0.0
+Columbus,Hindcast,91,0.0
+Columbus,Preseason,0,0.0168
+Columbus,Preseason,1,0.0204
+Columbus,Preseason,2,0.0078
+Columbus,Preseason,3,0.0
+Columbus,Preseason,4,0.0094
+Columbus,Preseason,5,0.0
+Columbus,Preseason,6,0.0
+Columbus,Preseason,7,0.0162
+Columbus,Preseason,8,0.0
+Columbus,Preseason,9,0.0
+Columbus,Preseason,10,0.0
+Columbus,Preseason,11,0.0
+Columbus,Preseason,12,0.001
+Columbus,Preseason,13,0.0012
+Columbus,Preseason,14,0.0014
+Columbus,Preseason,15,0.001
+Columbus,Preseason,16,0.0016
+Columbus,Preseason,17,0.0014
+Columbus,Preseason,18,0.001
+Columbus,Preseason,19,0.0002
+Columbus,Preseason,20,0.006
+Columbus,Preseason,21,0.0058
+Columbus,Preseason,22,0.001
+Columbus,Preseason,23,0.0
+Columbus,Preseason,24,0.0014
+Columbus,Preseason,25,0.0022
+Columbus,Preseason,26,0.0026
+Columbus,Preseason,27,0.0006
+Columbus,Preseason,28,0.0026
+Columbus,Preseason,29,0.0118
+Columbus,Preseason,30,0.006
+Columbus,Preseason,31,0.0102
+Columbus,Preseason,32,0.0064
+Columbus,Preseason,33,0.0076
+Columbus,Preseason,34,0.0092
+Columbus,Preseason,35,0.0056
+Columbus,Preseason,36,0.0192
+Columbus,Preseason,37,0.0252
+Columbus,Preseason,38,0.0218
+Columbus,Preseason,39,0.0156
+Columbus,Preseason,40,0.0178
+Columbus,Preseason,41,0.0216
+Columbus,Preseason,42,0.0158
+Columbus,Preseason,43,0.02
+Columbus,Preseason,44,0.0226
+Columbus,Preseason,45,0.0254
+Columbus,Preseason,46,0.0368
+Columbus,Preseason,47,0.03
+Columbus,Preseason,48,0.0302
+Columbus,Preseason,49,0.031
+Columbus,Preseason,50,0.0238
+Columbus,Preseason,51,0.0282
+Columbus,Preseason,52,0.0302
+Columbus,Preseason,53,0.04
+Columbus,Preseason,54,0.037
+Columbus,Preseason,55,0.0364
+Columbus,Preseason,56,0.0422
+Columbus,Preseason,57,0.0356
+Columbus,Preseason,58,0.0238
+Columbus,Preseason,59,0.0286
+Columbus,Preseason,60,0.0232
+Columbus,Preseason,61,0.031
+Columbus,Preseason,62,0.0406
+Columbus,Preseason,63,0.0228
+Columbus,Preseason,64,0.0172
+Columbus,Preseason,65,0.0128
+Columbus,Preseason,66,0.0134
+Columbus,Preseason,67,0.0086
+Columbus,Preseason,68,0.007
+Columbus,Preseason,69,0.0028
+Columbus,Preseason,70,0.0018
+Columbus,Preseason,71,0.0012
+Columbus,Preseason,72,0.0004
+Columbus,Preseason,73,0.0
+Columbus,Preseason,74,0.0
+Columbus,Preseason,75,0.0
+Columbus,Preseason,76,0.0
+Columbus,Preseason,77,0.0
+Columbus,Preseason,78,0.0
+Columbus,Preseason,79,0.0
+Columbus,Preseason,80,0.0
+Columbus,Preseason,81,0.0
+Columbus,Preseason,82,0.0
+Columbus,Preseason,83,0.0
+Columbus,Preseason,84,0.0
+Columbus,Preseason,85,0.0
+Columbus,Preseason,86,0.0
+Columbus,Preseason,87,0.0
+Columbus,Preseason,88,0.0
+Columbus,Preseason,89,0.0
+Columbus,Preseason,90,0.0
+Columbus,Preseason,91,0.0
+Oxford,Hindcast,0,0.0
+Oxford,Hindcast,1,0.0
+Oxford,Hindcast,2,0.0
+Oxford,Hindcast,3,0.0
+Oxford,Hindcast,4,0.0
+Oxford,Hindcast,5,0.0
+Oxford,Hindcast,6,0.0
+Oxford,Hindcast,7,0.0
+Oxford,Hindcast,8,0.0
+Oxford,Hindcast,9,0.0
+Oxford,Hindcast,10,0.0
+Oxford,Hindcast,11,0.0
+Oxford,Hindcast,12,0.0
+Oxford,Hindcast,13,0.0
+Oxford,Hindcast,14,0.0
+Oxford,Hindcast,15,0.0
+Oxford,Hindcast,16,0.0
+Oxford,Hindcast,17,0.0
+Oxford,Hindcast,18,0.0
+Oxford,Hindcast,19,0.0
+Oxford,Hindcast,20,0.0
+Oxford,Hindcast,21,0.0
+Oxford,Hindcast,22,0.0
+Oxford,Hindcast,23,0.0016
+Oxford,Hindcast,24,0.069
+Oxford,Hindcast,25,0.0
+Oxford,Hindcast,26,0.0
+Oxford,Hindcast,27,0.0
+Oxford,Hindcast,28,0.0
+Oxford,Hindcast,29,0.0
+Oxford,Hindcast,30,0.0
+Oxford,Hindcast,31,0.0
+Oxford,Hindcast,32,0.0
+Oxford,Hindcast,33,0.0
+Oxford,Hindcast,34,0.0
+Oxford,Hindcast,35,0.0
+Oxford,Hindcast,36,0.0704
+Oxford,Hindcast,37,0.0368
+Oxford,Hindcast,38,0.023
+Oxford,Hindcast,39,0.0124
+Oxford,Hindcast,40,0.0112
+Oxford,Hindcast,41,0.011
+Oxford,Hindcast,42,0.0044
+Oxford,Hindcast,43,0.0
+Oxford,Hindcast,44,0.0
+Oxford,Hindcast,45,0.0176
+Oxford,Hindcast,46,0.0378
+Oxford,Hindcast,47,0.0324
+Oxford,Hindcast,48,0.0382
+Oxford,Hindcast,49,0.0344
+Oxford,Hindcast,50,0.0318
+Oxford,Hindcast,51,0.041
+Oxford,Hindcast,52,0.0526
+Oxford,Hindcast,53,0.0574
+Oxford,Hindcast,54,0.0614
+Oxford,Hindcast,55,0.0536
+Oxford,Hindcast,56,0.055
+Oxford,Hindcast,57,0.0454
+Oxford,Hindcast,58,0.0462
+Oxford,Hindcast,59,0.0478
+Oxford,Hindcast,60,0.029
+Oxford,Hindcast,61,0.0102
+Oxford,Hindcast,62,0.0074
+Oxford,Hindcast,63,0.0098
+Oxford,Hindcast,64,0.015
+Oxford,Hindcast,65,0.018
+Oxford,Hindcast,66,0.0124
+Oxford,Hindcast,67,0.0052
+Oxford,Hindcast,68,0.0006
+Oxford,Hindcast,69,0.0
+Oxford,Hindcast,70,0.0
+Oxford,Hindcast,71,0.0
+Oxford,Hindcast,72,0.0
+Oxford,Hindcast,73,0.0
+Oxford,Hindcast,74,0.0
+Oxford,Hindcast,75,0.0
+Oxford,Hindcast,76,0.0
+Oxford,Hindcast,77,0.0
+Oxford,Hindcast,78,0.0
+Oxford,Hindcast,79,0.0
+Oxford,Hindcast,80,0.0
+Oxford,Hindcast,81,0.0
+Oxford,Hindcast,82,0.0
+Oxford,Hindcast,83,0.0
+Oxford,Hindcast,84,0.0
+Oxford,Hindcast,85,0.0
+Oxford,Hindcast,86,0.0
+Oxford,Hindcast,87,0.0
+Oxford,Hindcast,88,0.0
+Oxford,Hindcast,89,0.0
+Oxford,Hindcast,90,0.0
+Oxford,Hindcast,91,0.0
+Oxford,Preseason,0,0.0
+Oxford,Preseason,1,0.0
+Oxford,Preseason,2,0.0036
+Oxford,Preseason,3,0.0038
+Oxford,Preseason,4,0.0
+Oxford,Preseason,5,0.0034
+Oxford,Preseason,6,0.0088
+Oxford,Preseason,7,0.0072
+Oxford,Preseason,8,0.0046
+Oxford,Preseason,9,0.0
+Oxford,Preseason,10,0.0
+Oxford,Preseason,11,0.001
+Oxford,Preseason,12,0.0
+Oxford,Preseason,13,0.004
+Oxford,Preseason,14,0.0132
+Oxford,Preseason,15,0.0038
+Oxford,Preseason,16,0.0006
+Oxford,Preseason,17,0.0056
+Oxford,Preseason,18,0.002
+Oxford,Preseason,19,0.0
+Oxford,Preseason,20,0.0
+Oxford,Preseason,21,0.0
+Oxford,Preseason,22,0.0
+Oxford,Preseason,23,0.0
+Oxford,Preseason,24,0.0
+Oxford,Preseason,25,0.0
+Oxford,Preseason,26,0.01
+Oxford,Preseason,27,0.0084
+Oxford,Preseason,28,0.007
+Oxford,Preseason,29,0.0046
+Oxford,Preseason,30,0.0104
+Oxford,Preseason,31,0.0094
+Oxford,Preseason,32,0.01
+Oxford,Preseason,33,0.016
+Oxford,Preseason,34,0.0094
+Oxford,Preseason,35,0.012
+Oxford,Preseason,36,0.0086
+Oxford,Preseason,37,0.0254
+Oxford,Preseason,38,0.0158
+Oxford,Preseason,39,0.0138
+Oxford,Preseason,40,0.0212
+Oxford,Preseason,41,0.019
+Oxford,Preseason,42,0.024
+Oxford,Preseason,43,0.0252
+Oxford,Preseason,44,0.0212
+Oxford,Preseason,45,0.0532
+Oxford,Preseason,46,0.0392
+Oxford,Preseason,47,0.0442
+Oxford,Preseason,48,0.0396
+Oxford,Preseason,49,0.046
+Oxford,Preseason,50,0.0372
+Oxford,Preseason,51,0.0384
+Oxford,Preseason,52,0.0326
+Oxford,Preseason,53,0.0456
+Oxford,Preseason,54,0.0388
+Oxford,Preseason,55,0.037
+Oxford,Preseason,56,0.0406
+Oxford,Preseason,57,0.0308
+Oxford,Preseason,58,0.0232
+Oxford,Preseason,59,0.0184
+Oxford,Preseason,60,0.0186
+Oxford,Preseason,61,0.0214
+Oxford,Preseason,62,0.0216
+Oxford,Preseason,63,0.0172
+Oxford,Preseason,64,0.013
+Oxford,Preseason,65,0.0074
+Oxford,Preseason,66,0.003
+Oxford,Preseason,67,0.0
+Oxford,Preseason,68,0.0
+Oxford,Preseason,69,0.0
+Oxford,Preseason,70,0.0
+Oxford,Preseason,71,0.0
+Oxford,Preseason,72,0.0
+Oxford,Preseason,73,0.0
+Oxford,Preseason,74,0.0
+Oxford,Preseason,75,0.0
+Oxford,Preseason,76,0.0
+Oxford,Preseason,77,0.0
+Oxford,Preseason,78,0.0
+Oxford,Preseason,79,0.0
+Oxford,Preseason,80,0.0
+Oxford,Preseason,81,0.0
+Oxford,Preseason,82,0.0
+Oxford,Preseason,83,0.0
+Oxford,Preseason,84,0.0
+Oxford,Preseason,85,0.0
+Oxford,Preseason,86,0.0
+Oxford,Preseason,87,0.0
+Oxford,Preseason,88,0.0
+Oxford,Preseason,89,0.0
+Oxford,Preseason,90,0.0
+Oxford,Preseason,91,0.0
+Perry County,Hindcast,0,0.0
+Perry County,Hindcast,1,0.0
+Perry County,Hindcast,2,0.0
+Perry County,Hindcast,3,0.0
+Perry County,Hindcast,4,0.0
+Perry County,Hindcast,5,0.0
+Perry County,Hindcast,6,0.0
+Perry County,Hindcast,7,0.0
+Perry County,Hindcast,8,0.0
+Perry County,Hindcast,9,0.0
+Perry County,Hindcast,10,0.0
+Perry County,Hindcast,11,0.0
+Perry County,Hindcast,12,0.0
+Perry County,Hindcast,13,0.0
+Perry County,Hindcast,14,0.0
+Perry County,Hindcast,15,0.0
+Perry County,Hindcast,16,0.0
+Perry County,Hindcast,17,0.0
+Perry County,Hindcast,18,0.0
+Perry County,Hindcast,19,0.0
+Perry County,Hindcast,20,0.0
+Perry County,Hindcast,21,0.0
+Perry County,Hindcast,22,0.0
+Perry County,Hindcast,23,0.0
+Perry County,Hindcast,24,0.0
+Perry County,Hindcast,25,0.0706
+Perry County,Hindcast,26,0.0
+Perry County,Hindcast,27,0.0
+Perry County,Hindcast,28,0.0
+Perry County,Hindcast,29,0.0
+Perry County,Hindcast,30,0.0
+Perry County,Hindcast,31,0.0
+Perry County,Hindcast,32,0.0
+Perry County,Hindcast,33,0.0
+Perry County,Hindcast,34,0.0
+Perry County,Hindcast,35,0.0
+Perry County,Hindcast,36,0.006
+Perry County,Hindcast,37,0.0898
+Perry County,Hindcast,38,0.021
+Perry County,Hindcast,39,0.024
+Perry County,Hindcast,40,0.0176
+Perry County,Hindcast,41,0.0024
+Perry County,Hindcast,42,0.0018
+Perry County,Hindcast,43,0.0
+Perry County,Hindcast,44,0.0032
+Perry County,Hindcast,45,0.0056
+Perry County,Hindcast,46,0.0276
+Perry County,Hindcast,47,0.0334
+Perry County,Hindcast,48,0.034
+Perry County,Hindcast,49,0.0378
+Perry County,Hindcast,50,0.0298
+Perry County,Hindcast,51,0.034
+Perry County,Hindcast,52,0.0432
+Perry County,Hindcast,53,0.0554
+Perry County,Hindcast,54,0.0542
+Perry County,Hindcast,55,0.054
+Perry County,Hindcast,56,0.0526
+Perry County,Hindcast,57,0.0532
+Perry County,Hindcast,58,0.0426
+Perry County,Hindcast,59,0.0454
+Perry County,Hindcast,60,0.043
+Perry County,Hindcast,61,0.0332
+Perry County,Hindcast,62,0.0104
+Perry County,Hindcast,63,0.009
+Perry County,Hindcast,64,0.0112
+Perry County,Hindcast,65,0.013
+Perry County,Hindcast,66,0.02
+Perry County,Hindcast,67,0.0116
+Perry County,Hindcast,68,0.0094
+Perry County,Hindcast,69,0.0
+Perry County,Hindcast,70,0.0
+Perry County,Hindcast,71,0.0
+Perry County,Hindcast,72,0.0
+Perry County,Hindcast,73,0.0
+Perry County,Hindcast,74,0.0
+Perry County,Hindcast,75,0.0
+Perry County,Hindcast,76,0.0
+Perry County,Hindcast,77,0.0
+Perry County,Hindcast,78,0.0
+Perry County,Hindcast,79,0.0
+Perry County,Hindcast,80,0.0
+Perry County,Hindcast,81,0.0
+Perry County,Hindcast,82,0.0
+Perry County,Hindcast,83,0.0
+Perry County,Hindcast,84,0.0
+Perry County,Hindcast,85,0.0
+Perry County,Hindcast,86,0.0
+Perry County,Hindcast,87,0.0
+Perry County,Hindcast,88,0.0
+Perry County,Hindcast,89,0.0
+Perry County,Hindcast,90,0.0
+Perry County,Hindcast,91,0.0
+Perry County,Preseason,0,0.0
+Perry County,Preseason,1,0.0
+Perry County,Preseason,2,0.0
+Perry County,Preseason,3,0.0
+Perry County,Preseason,4,0.0
+Perry County,Preseason,5,0.0
+Perry County,Preseason,6,0.0022
+Perry County,Preseason,7,0.0102
+Perry County,Preseason,8,0.003
+Perry County,Preseason,9,0.0
+Perry County,Preseason,10,0.002
+Perry County,Preseason,11,0.0084
+Perry County,Preseason,12,0.0
+Perry County,Preseason,13,0.0
+Perry County,Preseason,14,0.0
+Perry County,Preseason,15,0.0064
+Perry County,Preseason,16,0.0152
+Perry County,Preseason,17,0.0048
+Perry County,Preseason,18,0.0058
+Perry County,Preseason,19,0.004
+Perry County,Preseason,20,0.0
+Perry County,Preseason,21,0.0
+Perry County,Preseason,22,0.0004
+Perry County,Preseason,23,0.0
+Perry County,Preseason,24,0.0
+Perry County,Preseason,25,0.0
+Perry County,Preseason,26,0.0
+Perry County,Preseason,27,0.0
+Perry County,Preseason,28,0.0
+Perry County,Preseason,29,0.0114
+Perry County,Preseason,30,0.0088
+Perry County,Preseason,31,0.0018
+Perry County,Preseason,32,0.0066
+Perry County,Preseason,33,0.019
+Perry County,Preseason,34,0.011
+Perry County,Preseason,35,0.01
+Perry County,Preseason,36,0.0124
+Perry County,Preseason,37,0.0254
+Perry County,Preseason,38,0.0262
+Perry County,Preseason,39,0.026
+Perry County,Preseason,40,0.0306
+Perry County,Preseason,41,0.0174
+Perry County,Preseason,42,0.0164
+Perry County,Preseason,43,0.0242
+Perry County,Preseason,44,0.0228
+Perry County,Preseason,45,0.0242
+Perry County,Preseason,46,0.0464
+Perry County,Preseason,47,0.0474
+Perry County,Preseason,48,0.0482
+Perry County,Preseason,49,0.0408
+Perry County,Preseason,50,0.0402
+Perry County,Preseason,51,0.0388
+Perry County,Preseason,52,0.04
+Perry County,Preseason,53,0.0448
+Perry County,Preseason,54,0.0516
+Perry County,Preseason,55,0.0382
+Perry County,Preseason,56,0.0264
+Perry County,Preseason,57,0.0246
+Perry County,Preseason,58,0.0232
+Perry County,Preseason,59,0.022
+Perry County,Preseason,60,0.0202
+Perry County,Preseason,61,0.0206
+Perry County,Preseason,62,0.0154
+Perry County,Preseason,63,0.0176
+Perry County,Preseason,64,0.0162
+Perry County,Preseason,65,0.0126
+Perry County,Preseason,66,0.0046
+Perry County,Preseason,67,0.0024
+Perry County,Preseason,68,0.0012
+Perry County,Preseason,69,0.0
+Perry County,Preseason,70,0.0
+Perry County,Preseason,71,0.0
+Perry County,Preseason,72,0.0
+Perry County,Preseason,73,0.0
+Perry County,Preseason,74,0.0
+Perry County,Preseason,75,0.0
+Perry County,Preseason,76,0.0
+Perry County,Preseason,77,0.0
+Perry County,Preseason,78,0.0
+Perry County,Preseason,79,0.0
+Perry County,Preseason,80,0.0
+Perry County,Preseason,81,0.0
+Perry County,Preseason,82,0.0
+Perry County,Preseason,83,0.0
+Perry County,Preseason,84,0.0
+Perry County,Preseason,85,0.0
+Perry County,Preseason,86,0.0
+Perry County,Preseason,87,0.0
+Perry County,Preseason,88,0.0
+Perry County,Preseason,89,0.0
+Perry County,Preseason,90,0.0
+Perry County,Preseason,91,0.0

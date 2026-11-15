@@ -21,3 +21,9 @@ To run locally from the repository directory, install `numpy pandas scipy matplo
 - The model predicts a stress threshold crossing. Its stated 50% canopy definition needs observations measured on that definition, or an explicit mapping from weekly status categories to crossing intervals. The current calibration expects point dates. A separate held-out years assessment against a simple historical median would show whether weather adds predictive skill.
 - The temperature and elevation effects may be hard to identify from only three tier averages. Pre-season mode uses historical temperatures and omits precipitation. The default model also ignores rain in the hindcast.
 - The decade analysis extrapolates local fall temperature trends and explores scenarios. The error calculation combines an ensemble spread, fitted residuals, and a drift term. Since the ensemble already includes threshold noise derived from residuals, it may count some error twice. It cannot establish ten-year accuracy.
+
+## Observed-data backtest and paper figures
+
+The observed-data entry point is `python3 ohio_foliage_backtest.py`. Run `python3 ohio_foliage_diagnostics.py` for the paired elevation comparison, historical score checks, and ten-year temperature scenarios. Together they use NumPy, pandas, Matplotlib, and SciPy. The data sources, limitations, results, and figure captions are in [the paper results](paper_results/RESULTS.md).
+
+Run `python3 ohio_foliage_extensions.py` for the matched summer temperature comparison and Perry County daily canopy-color curve. The checked-in input extracts are in `data/`. To regenerate them from the three public source downloads linked in the paper results, run `python3 prepare_foliage_extensions.py COLOR_JSON LEAF_DROP_JSON SUMMER_CSV`.
