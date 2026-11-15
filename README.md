@@ -30,4 +30,4 @@ Run `python3 ohio_foliage_extensions.py` for the matched summer temperature comp
 
 After generating the primary backtest, run `python3 ohio_foliage_species.py` and `python3 ohio_foliage_precipitation.py` to reproduce the exploratory tree-species and preseason rainfall comparisons. The rainfall inputs are from [NOAA Daily Summaries](https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&stations=USW00004804,USW00053855,USC00335857&startDate=2018-03-01&endDate=2026-11-10&dataTypes=PRCP&includeAttributes=true&units=metric&format=csv). The dated news cross-check is in [2026 news validation](paper_results/2026_news_validation.csv).
 
-Run `python3 ohio_foliage_spring.py` to regenerate the same-tree spring coverage audit. Use `--raw FILE` to rebuild its input from the USA-NPN status download.
+Run `python3 ohio_foliage_spring.py` to regenerate the same-tree spring coverage audit. Use `--raw FILE` to rebuild its input from the USA-NPN status download. The technical report draft is in [paper_results/TECHNICAL_REPORT.md](paper_results/TECHNICAL_REPORT.md).
