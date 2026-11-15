@@ -1,0 +1,13 @@
+location,taxon,median,prior_mixed_site_years,offset_days,exploratory_date
+Columbus,Cornus florida,50,3,-7.0,2026-10-14
+Columbus,Acer rubrum,50,4,4.583333333333333,2026-10-26
+Oxford,Aesculus glabra,48,1,-5.833333333333333,2026-10-13
+Oxford,Acer saccharum,48,8,-6.275,2026-10-13
+Oxford,Fagus grandifolia,48,1,0.0,2026-10-19
+Oxford,Ulmus rubra,48,1,2.3333333333333335,2026-10-21
+Oxford,Celtis occidentalis,48,1,2.3333333333333335,2026-10-21
+Perry County,Quercus rubra,49,6,2.84375,2026-10-23
+Perry County,Acer saccharum,49,8,-6.275,2026-10-14
+Perry County,Acer saccharinum,49,5,2.5714285714285716,2026-10-23
+Oxford,Acer rubrum,48,4,4.583333333333333,2026-10-24
+Oxford,Ulmus americana,48,1,2.3333333333333335,2026-10-21
