@@ -20,7 +20,7 @@ $$
 $$
 
 $$
- H(j)=\frac{24}{\pi}\arccos\!\bigl[\operatorname{clip}(-\tan\phi\tan\delta(j),-1,1)\bigr],
+ H(j)=\frac{24}{\pi}\arccos\bigl[\operatorname{clip}(-\tan\phi\tan\delta(j),-1,1)\bigr],
  \qquad F_d=1-\frac{H(244+d)}{H(172)}.
 $$
 
@@ -63,7 +63,7 @@ Let $X_i$ denote either summer predictor and $Z_i=\log \max[0.01,(c_i^-+c_i^+)/2
 
 $$
  \widehat\beta=\frac{\sum_i x_i z_i}{\sum_i x_i^2+4},
- \qquad m=\exp\!\left[\widehat\beta(X_{sy}-\overline X_{s,\mathrm{prior}})\right].
+ \qquad m=\exp\left[\widehat\beta(X_{sy}-\overline X_{s,\mathrm{prior}})\right].
 $$
 
 This $m$ multiplies the sampled threshold before clipping, using the same random draws for each paired comparison. [Summer temperature code](../ohio_foliage_extensions.py) · [Rainfall code](../ohio_foliage_precipitation.py)
@@ -121,7 +121,7 @@ $$
  \qquad c_m=a+b(\phi_m-\overline\phi)+c(z_m-\overline z).
 $$
 
-The planning pack also proposed $P_m(d)=100/[1+\exp(-k(C_m(d)-c_m))]$ with positive $k$. At 50%, its first crossing is equivalent to $C_m(d)\ge c_m$. The notebook computes the stress crossing directly. This proposed stress-to-color logistic is separate from the implemented Perry County rise-and-decline curve.
+The planning pack also proposed $P_m(d)=100/[1+\exp(-k(C_m(d)-c_m))]$ with positive $k$. At 50%, its first crossing is equivalent to $C_m(d)\ge c_m$. The notebook computes the stress crossing directly. The [planning checks module](../ohio_foliage_planning_checks.py) implements the optional logistic conversion separately. This proposed stress-to-color logistic is separate from the implemented Perry County rise-and-decline curve.
 
 For the first crossing day $d>0$, the prototype linearly interpolates
 
@@ -157,7 +157,7 @@ $$
  \Delta D\approx\frac{\Delta\sum_{d\in I,\, d\le D} F_{m,d}W_d}
  {C_m(D)-C_m(D-1)}.
 $$
-This approximation was a planning check. The notebook computes its sensitivity numerically.
+This approximation is implemented in the [planning checks module](../ohio_foliage_planning_checks.py). The notebook computes its sensitivity numerically.
 
 The prototype fits a fall temperature slope and compares its decadal estimate, twice that estimate, and the estimate plus two standard errors. It also computes an exploratory spread
 
