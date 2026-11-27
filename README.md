@@ -30,6 +30,6 @@ The observed-data entry point is `python3 ohio_foliage_backtest.py`. Run `python
 
 Run `python3 ohio_foliage_extensions.py` for the matched summer temperature comparison and Perry County daily canopy-color curve. The checked-in input extracts are in `data/`. To regenerate them from the three public source downloads linked in the paper results, run `python3 prepare_foliage_extensions.py COLOR_JSON LEAF_DROP_JSON SUMMER_CSV`.
 
-## Team
-* **Naanman-git** – Modeling & Implementation
-* **Vivaan-exe** – Mathematical Modeling & Simulation
+## Team Contributions
+* **Naanman-git** – Coder, AI Prompter, Model Validator, Data Backtester & Data Compatability.
+* **Vivaan-exe** – Advisor, AI Prompter, Data Verification & Data Valadity 
