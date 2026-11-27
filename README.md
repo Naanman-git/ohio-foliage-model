@@ -29,3 +29,7 @@ To run locally from the repository directory, install `numpy pandas scipy matplo
 The observed-data entry point is `python3 ohio_foliage_backtest.py`. Run `python3 ohio_foliage_diagnostics.py` for the paired elevation comparison, historical score checks, and ten-year temperature scenarios. Together they use NumPy, pandas, Matplotlib, and SciPy. The data sources, limitations, results, and figure captions are in [the paper results](paper_results/RESULTS.md).
 
 Run `python3 ohio_foliage_extensions.py` for the matched summer temperature comparison and Perry County daily canopy-color curve. The checked-in input extracts are in `data/`. To regenerate them from the three public source downloads linked in the paper results, run `python3 prepare_foliage_extensions.py COLOR_JSON LEAF_DROP_JSON SUMMER_CSV`.
+
+## Team
+* **Naanman-git** – Modeling & Implementation
+* **Vivaan-exe** – Mathematical Modeling & Simulation
