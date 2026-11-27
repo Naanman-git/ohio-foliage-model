@@ -1,5 +1,7 @@
 # Ohio foliage model
 
+IM²C 2026: daily cold-stress model, Monte Carlo forecast, and backtest.
+
 An IM2C 2026 Problem 1 research prototype. The model accumulates temperature stress weighted by day length, then simulates uncertainty in the timing of the threshold crossing.
 
 ## Run the notebook
